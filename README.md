@@ -1,2 +1,3 @@
-# Inert-Fingers
-Extended Unity VR Hand Pose support - Add combinations and more!
+# Inert Fingers
+
+**Thanks to @gingeralevr2 on discord for the suggestion!**
